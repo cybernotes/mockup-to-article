@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I have learned new tags such as <sup> and <hr> which allow me to add use the footer note and add the footer line before the footer notes.
+
+*Adding the paragraphs and adding the appropriate links.
+
+*Nothing was really difficult if I searched it with the right terms. 
+
+*I used researching skills and using the right terms in google searching it.
